@@ -1,6 +1,6 @@
 # clean_flutter_app
 
-A new Flutter project.
+A new Flutter project only with study purpose.
 
 ## Getting Started
 
