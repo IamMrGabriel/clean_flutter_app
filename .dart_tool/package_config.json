@@ -158,6 +158,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "http",
+      "rootUri": "file:///Users/gabrielmendes/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "http_multi_server",
       "rootUri": "file:///Users/gabrielmendes/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/http_multi_server-3.2.1",
       "packageUri": "lib/",
@@ -392,7 +398,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2022-11-11T18:19:59.361128Z",
+  "generated": "2022-11-18T19:15:25.192438Z",
   "generator": "pub",
   "generatorVersion": "2.12.3"
 }

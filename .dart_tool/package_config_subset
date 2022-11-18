@@ -94,6 +94,10 @@ glob
 2.12
 file:///Users/gabrielmendes/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/glob-2.0.1/
 file:///Users/gabrielmendes/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/glob-2.0.1/lib/
+http
+2.12
+file:///Users/gabrielmendes/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3/
+file:///Users/gabrielmendes/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.3/lib/
 http_multi_server
 2.12
 file:///Users/gabrielmendes/Documents/development/flutter/.pub-cache/hosted/pub.dartlang.org/http_multi_server-3.2.1/
